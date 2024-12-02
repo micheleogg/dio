@@ -1,7 +1,7 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Gamificação na Educação: Como os elementos de jogos podem ajudar no ensino 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este Ebook te convida a conhecer como a utilização da gamificação no ensino educacional vem ajudando e desenvolvendo a aprendizagem usando elementos de jogos como forma de dinamizar o conhecimento.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
