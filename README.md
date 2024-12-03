@@ -23,17 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Prompts e Linguagem Natural.
+Copilot.
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-
+Oportunidade única para mostrar habilidades e técnicas.
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+Projeto personalizado inspirado "Natty or Not" do fisiculturismo.
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
