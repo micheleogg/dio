@@ -1,5 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
+# Título do Projeto Extremamente Aesthetic 
+Inteligêcia artificial
+## 📒 Descrição
+Breve descrição do seu projeto
+Projeto de IA que demostra um modelo básico de aprendizado de máquina para classificação de dados.
+## 🤖 Tecnologias Utilizadas
+Liste as IAs Generativas e outras ferramentas usadas 
+*Python
+*TensorFlow
+*Keras
+*Scikit-learn
+*Pandas
+*Numpy
+## 🧐 Processo de Criação
+Descreva como você criou o conteúdo
+1-Coleta de dados
+2-Pré-processamento de dados
+3-Treinamento de modelo
+4-Avaliação de modelo
+5-Implementação da IA
+## 🚀 Resultados
+Apresente os resultados do seu projeto
+Modelo de IA capaz de classificar dados com precisãode 90%
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Aprendi que a IA requer uma combinação de conhecimentos em matamática, estatistica e programação. O projeto demonstrou a importancia da seleção de dados e do pré-processamento para o sucessodo modelo.
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
