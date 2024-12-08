@@ -23,13 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Comecei a utilizar alguns app e site para gerar conteúdo nas IA-Generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+app.runwayml.com
+avatarmaker.ai-pro.org
+elevenlabs
+leonardo.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inseri duas fotos no app.runwayml.com para a criação de vídeos de 10 segundos a partir das fotos.
+- Uma foto individual minha e outra foto de família
+A partir de uma foto coloquei fala nesta mesma foto, utilizando o app Eleven Labs
+No site avatarmaker.ai-pro.org criei um avatar a partir da mesma foto que utilizei no app.runwayml.com
+No site leonardo.ai criei imagens de uma cachoeira
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
