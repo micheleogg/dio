@@ -1,10 +1,8 @@
-# Título do Projeto Extremamente Aesthetic ;)
+Utilizar a inteligencia artificialparaauxiliar no diagnostico precoce ,monitoramento e cuidado de pessoas com demencia, promovendo melhor qualidade de vida e apoio aos cuidadores
 
-## 📒 Descrição
-Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chatGPT
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
