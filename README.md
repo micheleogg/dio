@@ -39,10 +39,12 @@ No site avatarmaker.ai-pro.org criei um avatar a partir da mesma foto que utiliz
 No site leonardo.ai criei imagens de uma cachoeira
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio foi bastante divertido, mas mexer com o github está sendo desafiador. 
+Sou leiga em tecnologia, e confesso que estou sofrendo para lidar com o Github...não consegui enviar os arquivos que realizei...
+se alguém puder me dar uma "luz" agradeço. Como enviar o meu arquivo doc???
 ```
 
 ### Exemplos e Insigths
