@@ -12,7 +12,7 @@ Utilizei o "ChatGPT" para gerar e desenvolver o modelo de orientações e treina
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo técnico e acessível, que irá orientar o iniciante na corrida de rua de forma a não permitir que o mesmo se machuque ou perca a motivação, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e orientação de práticas esportivas.
-
+Link para o E-Book: https://github.com/CarlosABC29/lab-natty-or-not/blob/CarlosABC29-patch-1/E-Book_Corredores_Iniciantes.pdf
 
 ## 💭 Reflexão (Opcional)
 Foi surpreendente ver a capacidade da IA de auxiliar na criação rápida de conteúdos complexos.
