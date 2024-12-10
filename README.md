@@ -1,10 +1,10 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Criando um Avatar Digital com Inteligência Artificial
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Vinicius Moraes da CAIXA apresentando um conteúdo gerado por Inteligência Artificial com as técnicas aprendidas no Curso Dio e CAIXA - |Microsoft I.A  Generativa e a facilidade de uso no dia-a-dia pra criar conteúdos, aulas, documentários e o que a sua imaginação desejar.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,32 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando Avatares com I.A. ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de Avatares com inteligência Artificial e a ferramentes D-Id.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-Id
+Faststone Capture
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei a ferramenta studio d-id localizada em  https://studio.d-id.com , escolhendo a opção gerar avatar, efetuando o upload de uma foto minha. Digitei um pequeno texto de apresentação na caixa de texto apresntada e em seguida uma pergunta inicial clicável (poderia ser quantas o usuário desejar) para iniciar a conversação com uma breve apresentação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi criado um avatar realista e disponibilizada a base de conhecimentos disponível na plataforma D-ID.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Considerando a celeridade da disponibilização de informações e conteúdos atual, a utilização de ferramentas de I.A. proporcionam uma forma ágil de produzir conteúdo para os usuários.
 ```
 
-### Exemplos e Insigths
+### Exemplo e Insigth
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
