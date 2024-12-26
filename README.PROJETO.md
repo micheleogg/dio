@@ -1,31 +1,35 @@
-Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-🚀 Introdução
-Woooow! Look at this 👀
+ Livro de Receitas
+📒 Descrição do Projeto
+Apresente seu eBook:
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Qual é o tema das receitas (culinária saudável, sobremesas, pratos rápidos, etc.)?
+Por que você escolheu esse tema?
+O que torna este eBook único?
+🤖 Ferramentas Utilizadas
+Liste as IAs e outras ferramentas usadas para criar o projeto, como:
 
-🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-Objetivos
-Explorar IAs Generativas: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-Potfólio de Projetos:
-Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-Edite seu README com os detalhes do seu projeto, siga nosso Template (é só copiar, colar e preencher);
-Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-Efeito de Rede: Compartilhe seus resultados nas redes sociais com a hashtag #LabDIONattyOrNot. Não esqueça de nos marcar: DIO e falvojr.
-Template
-# Título do Projeto Extremamente Aesthetic ;)
+ChatGPT (para criar receitas e descrições).
+DALL·E ou MidJourney (para gerar imagens dos pratos).
+Canva ou PowerPoint (para montar o design do eBook).
+🛠 Processo de Criação
+Descreva as etapas criativas e técnicas:
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Escolha do tema e estilo do eBook.
+Criação das receitas com IA.
+Geração das imagens dos pratos.
+Estruturação e diagramação do eBook (design, layout).
+🚀 Resultados
+Inclua:
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Link para download ou visualização do eBook.
+Exemplos de páginas (imagens ou descrições).
+Destaque uma ou duas receitas que você mais gostou.
+💭 Reflexão (Opcional)
+Comente sobre os desafios e aprendizados do processo. Foi fácil usar IA para criar algo tão criativo? O que você faria diferente?
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🌟 Dicas de Como Criar seu eBook com IA:
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Escolha um tema: Defina o público e o estilo do seu eBook. Pode ser sobre culinária vegana, sobremesas para festas, ou receitas rápidas para o dia a dia.
+Use IA para criar receitas: Pergunte ao ChatGPT por receitas exclusivas ou adaptações de pratos conhecidos.
+Gere imagens de alta qualidade: Use ferramentas como o DALL·E ou similares para criar imagens dos pratos descritos.
+Organize e formate: Utilize ferramentas como Canva ou PowerPoint para criar um design visual atraente. Escolha fontes, cores e um layout que combinem com o tema.
